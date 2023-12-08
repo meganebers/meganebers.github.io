@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Discrepancy Modeling Framework: Learning missing
+physics, modeling systematic residuals, and disambiguating
+between deterministic and random effects"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/2022-3-10-Discrepancy-3
+excerpt: 'As data-driven modeling continues to gain momentum, it is imperative that researchers utilize domain knowledge (e.g., first principles physics) to model complex systems. However, in all disciplines, model- measurement mismatch exists. The lack of investigation into this error leaves the missed opportunity to resolve model-measurement mismatch, disambiguate deterministic effects, and improve the underlying model.'
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'SIAM Journal on Applied Dynamical Systems'
+paperurl: 'https://arxiv.org/pdf/2203.05164.pdf'
+citation: 
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Physics-based and first-principles models pervade the engineering and physical sciences, allowing for the ability to model the dynamics of complex systems with a prescribed accuracy. The approximations used in deriving governing equations often result in discrepancies between the model and sensor-based measurements of the system, revealing the approximate nature of the equations and/or the signal-to-noise ratio of the sensor itself. In modern dynamical systems, such discrepancies between model and measurement can lead to poor quantification, often undermining the ability to produce accurate and precise control algorithms. We introduce a discrepancy modeling framework to identify the missing physics and resolve the model-measurement mismatch. 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://arxiv.org/pdf/2203.05164.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
