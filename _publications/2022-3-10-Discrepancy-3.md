@@ -5,7 +5,7 @@ between deterministic and random effects"
 collection: publications
 permalink: /publication/2022-3-10-Discrepancy-3
 excerpt: 'As data-driven modeling continues to gain momentum, it is imperative that researchers utilize domain knowledge (e.g., first principles physics) to model complex systems. However, in all disciplines, model- measurement mismatch exists. The lack of investigation into this error leaves the missed opportunity to resolve model-measurement mismatch, disambiguate deterministic effects, and improve the underlying model.'
-date: 2015-10-01
+date: 2022-3-10
 venue: 'SIAM Journal on Applied Dynamical Systems'
 paperurl: 'https://arxiv.org/pdf/2203.05164.pdf'
 citation: 
