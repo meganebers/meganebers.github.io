@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am postdoctoral scholar in Applied Mathematics at the University of Washington with the [NSF AI Institute in Dynamic Systems](https://dynamicsai.org/). I'm interested in data-driven and reduced-order modeling of complex systems to extract actionable insight from real-world data. Rather than focusing on just one application domain, I’m excited about applying my ML expertise to a wide variety of complex problems, such as human movement, pharmacology, electromagnetism, fluids, and climate.
+Megan R. Ebers is a postdoctoral scholar in applied mathematics with the [NSF AI Institute in Dynamic Systems](https://dynamicsai.org/) at the University of Washington. In her PhD research, she developed and applied machine learning methods for dynamics systems to understand and enable human mobility. Her postdoctoral research focuses on data-driven and reduced-order methods for complex systems, so as to continue her work in human-centered research challenges, as well as to extend her research to a broader set of technical challenges, including turbulent flow modeling, natural disaster monitoring, and acoustic object detection.
 
-In my PhD, I was advised by [Dr. Kat M Steele](https://steelelab.me.uw.edu/) (Mechanical Engineering) and [Dr. J Nathan Kutz](https://faculty.washington.edu/kutz/) (Applied Mathematics) using machine learning to study human movement. I was supported by the NSF Graduate Research Fellowship Program and the NSF AI Institute in Dynamic Systems.
+In her PhD, she was advised by [Dr. Kat M Steele](https://steelelab.me.uw.edu/) (who combines engineering, medicine, and accessible design to understand and enable human mobility) and [Dr. J Nathan Kutz](https://faculty.washington.edu/kutz/) (who researches numerical methods for modeling complex dynamical systems). She was supported by the NSF Graduate Research Fellowship Program and the NSF AI Institute in Dynamic Systems.
 
-When I'm not neck-deep in code, you'll find me in the mountains hiking, climbing, or snowboarding.
+When she's not neck-deep in code, you'll find her in the mountains hiking, climbing, or snowboarding.
