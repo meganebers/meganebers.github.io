@@ -12,7 +12,7 @@ citation:
 ---
 Physics-based and first-principles models pervade the engineering and physical sciences, allowing for the ability to model the dynamics of complex systems with a prescribed accuracy. The approximations used in deriving governing equations often result in discrepancies between the model and sensor-based measurements of the system, revealing the approximate nature of the equations and/or the signal-to-noise ratio of the sensor itself. In modern dynamical systems, such discrepancies between model and measurement can lead to poor quantification, often undermining the ability to produce accurate and precise control algorithms. We introduce a discrepancy modeling framework to identify the missing physics and resolve the model-measurement mismatch. 
 
-[Download paper here](https://arxiv.org/pdf/2203.05164.pdf)
+[Download paper here](https://epubs.siam.org/eprint/HR6VCBXK6P7TQN55WZUM/full)
 
 [Find code here](https://github.com/meganebers/Discrepancy-Modeling-Framework-code)
 
