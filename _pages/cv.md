@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV here](http://meganebers.github.io/files/MeganEbers-Health-resume-2024.pdf)
+[Download CV here](http://meganebers.github.io/files/MeganEbers-resume-2024.pdf)
