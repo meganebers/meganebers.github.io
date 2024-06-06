@@ -3,7 +3,7 @@ title: "Discrepancy Modeling Framework: Learning missing
 physics, modeling systematic residuals, and disambiguating
 between deterministic and random effects"
 collection: publications
-permalink: /publication/2022-3-10-Discrepancy-3
+permalink: /publication/2022-3-10-Discrepancy-4
 excerpt: 'As data-driven modeling continues to gain momentum, it is imperative that researchers utilize domain knowledge (e.g., first principles physics) to model complex systems. However, in all disciplines, model- measurement mismatch exists. The lack of investigation into this error leaves the missed opportunity to resolve model-measurement mismatch, disambiguate deterministic effects, and improve the underlying model.'
 date: 2022-3-10
 venue: 'SIAM Journal on Applied Dynamical Systems'
