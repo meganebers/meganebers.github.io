@@ -1,7 +1,7 @@
 ---
 title: "Universal Dynamics of Damped-Driven Systems: The Logistic Map as a Normal Form for Energy Balance"
 collection: publications
-permalink: /publication/2022-11-22-DampedDriven-4
+permalink: /publication/2022-11-22-DampedDriven-5
 excerpt: 'The characterization of the underlying instability has significant implications for engineering design. Specifically, instead of engineering at the level of the complex physical processes, one should instead consider the potential for engineering the overall gain and loss curves.'
 date: 2022-11-22
 venue: 
