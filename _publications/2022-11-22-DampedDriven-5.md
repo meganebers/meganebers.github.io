@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-22-DampedDriven-5
 excerpt: 'The characterization of the underlying instability has significant implications for engineering design. Specifically, instead of engineering at the level of the complex physical processes, one should instead consider the potential for engineering the overall gain and loss curves.'
 date: 2022-11-22
-venue: 
+venue: arXiv
 paperurl: 'https://arxiv.org/pdf/2211.11748.pdf'
 citation: 
 ---
