@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Megan Ebers"
+title                    : "Megan Ebers, PhD"
 title_separator          : "-"
-name                     : &name "Megan Ebers"
+name                     : &name "Megan Ebers, PhD"
 description              : &description ""
 url                      : https://meganebers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
