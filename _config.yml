@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Megan Ebers, PhD"
+title                    : "Megan R. Ebers, PhD"
 title_separator          : "-"
-name                     : &name "Megan Ebers, PhD"
+name                     : &name "Megan R. Ebers, PhD"
 description              : &description ""
 url                      : https://meganebers.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Megan Ebers"
+  name             : "Megan R. Ebers"
   avatar           : "profile.jpeg"
-  bio              : "Postdoctoral scholar with the AI Institute in Dynamic Systems at UW"
+  bio              : "Data scientist in Scientific Machine Learning at PNNL"
   location         : "Seattle, WA"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "meganebers"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
