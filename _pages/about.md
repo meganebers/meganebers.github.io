@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Megan R. Ebers is a data scientist in Scientific Machine Learning at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) (PNNL). Her research focuses on adapting and applying off-the-shelf machine learning models to solve domain-specific engineering problems and discover scientific principles in physical systems.
+Megan R. Ebers is a data scientist in Scientific Machine Learning at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/) (PNNL). Her research focuses on adapting and applying off-the-shelf data-driven and machine learning models to solve domain-specific engineering problems and discover scientific principles in physical and dynamical systems.
 
 Dr. Ebers was a postdoctoral scholar in applied mathematics with the [NSF AI Institute in Dynamic Systems](https://dynamicsai.org/) at the University of Washington. Her postdoctoral research focused on data-driven and reduced-order methods for complex systems. In her PhD research, she developed and applied machine learning methods for dynamical systems to understand and enable human mobility. During her PhD, she interned with Genentech and used machine learning to inform which drugs have the most potential to succeed in clinical trials. 
 
